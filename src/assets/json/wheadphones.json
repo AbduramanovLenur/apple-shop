@@ -1,0 +1,39 @@
+{
+    "wHeadphones": [{
+            "id": 7,
+            "title": "Apple AirPods",
+            "price": 9527,
+            "priceBasket": 9527,
+            "rating": 4.7,
+            "images": "wheadphones-1.png",
+            "alt": "wheadphones-1",
+            "quantity": 1,
+            "isFavourite": false,
+            "isBasketActive": false
+        },
+        {
+            "id": 8,
+            "title": "GERLAX GH-04",
+            "price": 6527,
+            "priceBasket": 6527,
+            "rating": 4.7,
+            "images": "wheadphones-2.png",
+            "alt": "wheadphones-2",
+            "quantity": 1,
+            "isFavourite": false,
+            "isBasketActive": false
+        },
+        {
+            "id": 9,
+            "title": "BOROFONE BO4",
+            "price": 7527,
+            "priceBasket": 7527,
+            "rating": 4.7,
+            "images": "wheadphones-3.png",
+            "alt": "wheadphones-3",
+            "quantity": 1,
+            "isFavourite": false,
+            "isBasketActive": false
+        }
+    ]
+}

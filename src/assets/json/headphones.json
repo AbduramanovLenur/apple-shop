@@ -1,0 +1,82 @@
+{
+    "headphones": [
+        {
+            "id": 1,
+            "title": "Apple BYZ S852I",
+            "price": 2927,
+            "oldPrice": 3527,
+            "priceBasket": 2927,
+            "rating": 4.7,
+            "images": "headphones-1.png",
+            "alt": "headphones-1",
+            "quantity": 1,
+            "isFavourite": false,
+            "isBasketActive": false
+        },
+        {
+            "id": 2,
+            "title": "Apple EarPods",
+            "price": 2327,
+            "oldPrice": "",
+            "priceBasket": 2327,
+            "rating": 4.5,
+            "images": "headphones-2.png",
+            "alt": "headphones-2",
+            "quantity": 1,
+            "isFavourite": false,
+            "isBasketActive": false
+        },
+        {
+            "id": 3,
+            "title": "Apple EarPods",
+            "price": 2327,
+            "oldPrice": "",
+            "priceBasket": 2327,
+            "rating": 4.5,
+            "images": "headphones-3.png",
+            "alt": "headphones-3",
+            "quantity": 1,
+            "isFavourite": false,
+            "isBasketActive": false
+        },
+        {
+            "id": 4,
+            "title": "Apple BYZ S852I",
+            "price": 2927,
+            "oldPrice": 3527,
+            "priceBasket": 2927,
+            "rating": 4.7,
+            "images": "headphones-4.png",
+            "alt": "headphones-4",
+            "quantity": 1,
+            "isFavourite": false,
+            "isBasketActive": false
+        },
+        {
+            "id": 5,
+            "title": "Apple EarPods",
+            "price": 2327,
+            "oldPrice": "",
+            "priceBasket": 2327,
+            "rating": 4.5,
+            "images": "headphones-5.png",
+            "alt": "headphones-5",
+            "quantity": 1,
+            "isFavourite": false,
+            "isBasketActive": false
+        },
+        {
+            "id": 6,
+            "title": "Apple EarPods",
+            "price": 2327,
+            "oldPrice": "",
+            "priceBasket": 2327,
+            "rating": 4.5,
+            "images": "headphones-6.png",
+            "alt": "headphones-6",
+            "quantity": 1,
+            "isFavourite": false,
+            "isBasketActive": false
+        }
+    ]
+}

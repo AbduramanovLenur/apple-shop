@@ -1,0 +1,45 @@
+{
+    "caseItem": [{
+            "ru": {
+                "id": 1,
+                "title": "Стеклянные",
+                "alt": "Стеклянные",
+                "images": "glass-case.png"
+            },
+            "en": {
+                "id": 1,
+                "title": "Glass",
+                "alt": "Glass",
+                "images": "glass-case.png"
+            }
+        },
+        {
+            "ru": {
+                "id": 2,
+                "title": "Силиконовые",
+                "alt": "Силиконовые",
+                "images": "silicone-case.png"
+            },
+            "en": {
+                "id": 2,
+                "title": "Silicone",
+                "alt": "Silicone",
+                "images": "silicone-case.png"
+            }
+        },
+        {
+            "ru": {
+                "id": 3,
+                "title": "Кожаные",
+                "alt": "Кожаные",
+                "images": "leather-case.png"
+            },
+            "en": {
+                "id": 3,
+                "title": "Leather",
+                "alt": "Leather",
+                "images": "leather-case.png"
+            }
+        }
+    ]
+}
